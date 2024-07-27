@@ -23,7 +23,7 @@ body {
     width: 350px;
     border-radius: 10px;
     padding: 3rem;
-    flex-grow: 0.1;
+    flex-grow: 0.05;
 }
 
 .fs-input {
